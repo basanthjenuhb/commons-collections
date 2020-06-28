@@ -99,7 +99,7 @@ Additional Resources
 
 + [Apache Commons Homepage](https://commons.apache.org/)
 + [Apache Issue Tracker (JIRA)](https://issues.apache.org/jira/browse/COLLECTIONS)
-+ [Apache Commons Twitter Account](https://twitter.com/ApacheCommons)
++ [Apache Commons Twitter Account](h.   ttps://twitter.com/ApacheCommons)
 + `#apache-commons` IRC channel on `irc.freenode.org`
 
 [ml]:https://commons.apache.org/mail-lists.html
